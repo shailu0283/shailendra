@@ -1,1 +1,1 @@
-to test the merge conflict secnario
+to test the merge yes conflict secnario
